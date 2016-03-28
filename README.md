@@ -3,16 +3,17 @@
 
 [![Build Status][travis-image]][travis-url]
 
+![](header.jpg)
 
 ## Includes
 
-__Apex/Log__
-__codegansta/negroni__
-__BurntSushi/toml__
-__gorilla__ (mux, context..)
-__spf13/viper__
+ * __Apex/Log__
+ * __codegansta/negroni__
+ * __BurntSushi/toml__
+ * __gorilla__ (mux, context..)
+ * __spf13/viper__
 
-![](header.jpg)
+
 
 ## Installation
 
