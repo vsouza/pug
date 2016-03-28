@@ -24,7 +24,7 @@ make deps
 
 ## Usage example
 
-`curl -V http://localhost:5000/health`
+`curl -v http://localhost:5000/health`
 
 ## Development setup
 
