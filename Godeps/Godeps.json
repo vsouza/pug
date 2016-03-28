@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/vsouza/summer",
+	"ImportPath": "github.com/vsouza/pug",
 	"GoVersion": "go1.6",
 	"Deps": [
 		{
